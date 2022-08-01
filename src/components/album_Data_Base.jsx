@@ -4,7 +4,7 @@ import axios from 'axios';
 
 // exports.getAllTasks = function(event, context, callback){
 // 	const params = {
-// 		TableName : process.env.TABLE_NAME
+// 		TableName : process.env.videostest
 // 	};
 // 	documentClient.scan(params, function(err, data){
 // 		if(err){
